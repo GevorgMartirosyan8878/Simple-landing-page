@@ -1,0 +1,124 @@
+.first-section {
+	min-height: 100vh;
+	background-image: url(../../images/backgroundImg/1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.greeting-section-content-wrapper {
+	width: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.full-name-container {
+	width: 60%;
+	height: 250px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 20px solid #fff;
+	font-size: 80px;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 900;
+	background-color: #53AF9E;
+	color: #fff;
+}
+
+.some-text-for-you {
+	width: 40%;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: -60px;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 200;
+	color: #53AF9E;
+	font-size: 28px;
+	background-color: #fff;
+}
+
+@media (max-width: 1440px) {
+	.full-name-container {
+		height: 200px;
+		border: 15px solid #fff;
+		font-size: 64px;
+	}
+
+	.some-text-for-you {
+		height: 85px;
+		margin-top: -50px;
+		font-size: 22px;
+	}
+}
+
+@media (max-width: 1190px) {
+	.full-name-container {
+		height: 165px;
+		border: 14px solid #fff;
+		font-size: 48px;
+	}
+
+	.some-text-for-you {
+		height: 60px;
+		margin-top: -38px;
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 876px) {
+	.full-name-container {
+		width: 75%;
+	}
+	.some-text-for-you {
+		width: 50%;
+	}
+}
+
+@media (max-width: 696px) {
+	.full-name-container {
+		width: 90%;
+		height: 130px;
+		border: 10px solid #fff;
+		font-size: 38px;
+	}
+	.some-text-for-you {
+		width: 60%;
+		height: 50px;
+		margin-top: -32px;
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 469px) {
+	.full-name-container {
+		height: 100px;
+		border: 5px solid #fff;
+		font-size: 32px;
+	}
+	.some-text-for-you {
+		height: 35px;
+		margin-top: -21px;
+		font-size: 10px;
+	}
+}
+
+@media (max-width: 390px) {
+	.full-name-container {
+		height: 80px;
+		border: 2px solid #fff;
+		font-size: 22px;
+	}
+	.some-text-for-you {
+		height: 30px;
+		margin-top: -18px;
+		font-size: 8px;
+	}
+}
