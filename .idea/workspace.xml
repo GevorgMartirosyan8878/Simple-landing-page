@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ff16d15-73aa-4088-92c7-8d574c971a43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/simpleLandingPage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simpleLandingPage.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/first-section/first-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/greeting-section_first-section/greeting-section.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/fourth-section/fourth-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/footer-section_fourth-section/footer-section_fourth-section.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/second-section/second-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about-section_second-section/about-section_second-section.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/third-section/third-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about-projects-section_third-section/about-projects-section_third-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/footer/footer.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617808683367</updated>
-      <workItem from="1617808684814" duration="4013000" />
+      <workItem from="1617808684814" duration="5072000" />
     </task>
     <servers />
   </component>
