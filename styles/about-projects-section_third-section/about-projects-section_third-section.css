@@ -1,12 +1,12 @@
-.fourth-section {
+.third-section {
 	min-height: 100vh;
 }
 
-.clients-review-section {
+.about-projects-section-wrapper {
 	height: 100%;
 }
 
-.review-about-header {
+.about-project-header {
 	height: 250px;
 	display: flex;
 	justify-content: center;
@@ -14,65 +14,64 @@
 	font-size: 68px;
 	font-family: 'Prompt', sans-serif;
 	font-weight: 700;
-	color: #fff;
-	background-color: #53AF9E;
+	color: #53AF9E;
 }
 
-.review-container {
+.about-project-container {
 	min-height: calc(100vh - 250px);
 	/*padding: 10px 0;*/
-	background-color: #C2E2DC;
+	background-color: #8FCBC0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-.review-cards-wrapper {
+.about-projects-cards-wrapper {
 	width: 90%;
 	display: grid;
 	grid-template-columns: auto auto auto;
 	justify-content: space-between;
 }
 
-.review-card {
+.about-project-cards {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
 
-.review-avatar {
-	width: 200px;
-	height: 200px;
-	border-radius: 50%;
-}
-
-.review-avatar-1 {
-	background-image: url(../../images/otherImg/8.jpg);
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-}
-
-.review-avatar-2 {
-	background-image: url(../../images/otherImg/9.jpg);
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-}
-
-.review-avatar-3 {
-	background-image: url(../../images/otherImg/6.jpg);
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-}
-
-.review-info-wrapper {
+.about-info-wrapper {
 	margin-top: 80px;
 	position: relative;
 	display: flex;
 	justify-content: center;
 }
 
-.review-info-header {
+.about-project-avatar {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.about-avatar-1 {
+	background-image: url(../../images/otherImg/7.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.about-avatar-2 {
+	background-image: url(../../images/otherImg/4.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.about-avatar-3 {
+	background-image: url(../../images/otherImg/3.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.about-info-header {
 	text-align: center;
 	background-color: #53AF9E;
 	color: #fff;
@@ -91,7 +90,11 @@
 	top: -40px;
 }
 
-.review-info-info {
+.about-info-header:hover {
+	background-color: #2A7365;
+}
+
+.about-info-info {
 	width: 400px;
 	height: 220px;
 	background-color: #ffffff;
@@ -105,76 +108,98 @@
 	font-size: 20px;
 }
 
-.review-info-info>p {
+.about-info-info > p {
 	width: 90%;
 }
 
-
 @media (max-width: 1440px) {
-	.review-about-header {
-		font-size: 58px;
+	.about-info-wrapper {
+		margin-top: 60px;
 	}
-	.review-info-header {
+
+	.about-info-header {
 		height: 65px;
 		top: -35px;
 		font-size: 24px;
 	}
-	.review-info-info {
+
+	.about-info-info {
 		width: 360px;
 		height: 190px;
 		font-size: 18px;
 	}
+
+	.about-project-header {
+		font-size: 58px;
+	}
 }
 
 @media (max-width: 1280px) {
-	.review-cards-wrapper {
+	.about-projects-cards-wrapper {
 		width: 90%;
 		display: grid;
 		grid-template-columns: auto auto;
 		justify-content: space-evenly;
 		padding-bottom: 50px;
 	}
-	.review-card {
+
+	.about-project-cards {
 		margin-top: 50px;
 	}
 }
 
 @media (max-width: 890px) {
-	.review-cards-wrapper {
+
+	.about-projects-cards-wrapper {
 		width: 90%;
 		display: grid;
 		grid-template-columns: auto;
 		padding-bottom: 50px;
 	}
-	.review-about-header {
-		font-size: 48px;
-	}
-	.review-card {
+
+	.about-project-cards {
 		width: 100%;
 		margin-top: 50px;
 		flex-direction: row;
 	}
-	.review-avatar {
+
+	.about-project-avatar {
 		display: none;
 	}
-	.review-info-info {
+
+	.about-info-wrapper {
+		width: 80vw;
+	}
+
+	.about-info-info {
 		width: 100%;
+	}
+
+	.about-project-header {
+		font-size: 48px;
 	}
 }
 
 @media (max-width: 480px) {
-	.review-about-header {
+	.about-project-header {
 		font-size: 38px;
+		height: 180px;
 	}
 }
 
 @media (max-width: 420px) {
-	.review-info-header {
+	.about-info-header {
 		font-size: 20px;
 	}
-	.review-info-info {
+
+	.about-info-info {
 		font-size: 16px;
 	}
 }
 
-
+@media (max-width: 380px) {
+	.about-project-header {
+		font-size: 28px;
+		height: 150px;
+	}
+}

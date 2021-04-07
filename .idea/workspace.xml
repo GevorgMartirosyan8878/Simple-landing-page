@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f06977b-af06-4e35-8e59-bb2f8c7622a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/fourth-section/fourth-section.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/second-section/second-section.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/third-section/third-section.css" afterDir="false" />
+    <list default="true" id="5ff16d15-73aa-4088-92c7-8d574c971a43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/simpleLandingPage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simpleLandingPage.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/first-section/first-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/greeting-section_first-section/greeting-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/fourth-section/fourth-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/footer-section_fourth-section/footer-section_fourth-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/second-section/second-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about-section_second-section/about-section_second-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/third-section/third-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about-projects-section_third-section/about-projects-section_third-section.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,30 +28,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1qiB9yM3iQIxzpVwU37vwSUIiyg" />
+  <component name="ProjectId" id="1qqYeYvMfc5IHgQRh1rkoq4Ev29" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f06977b-af06-4e35-8e59-bb2f8c7622a7" name="Default Changelist" comment="" />
-      <created>1617552382944</created>
+      <changelist id="5ff16d15-73aa-4088-92c7-8d574c971a43" name="Default Changelist" comment="" />
+      <created>1617808683367</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617552382944</updated>
-      <workItem from="1617552384123" duration="5956000" />
-      <workItem from="1617637381750" duration="15505000" />
-      <workItem from="1617656285581" duration="1195000" />
+      <updated>1617808683367</updated>
+      <workItem from="1617808684814" duration="4013000" />
     </task>
     <servers />
   </component>
@@ -63,6 +67,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
